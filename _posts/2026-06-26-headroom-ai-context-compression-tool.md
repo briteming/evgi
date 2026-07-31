@@ -168,7 +168,6 @@ headroom wrap claude
 headroom install apply --preset persistent-service
 ```
 
-
 ### MCP Server 模式
 
 将 Headroom 作为 MCP Server 接入 Claude Code：

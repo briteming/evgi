@@ -10,7 +10,7 @@ last_updated:
 
 昨天在 Tmux 中使用 gpg 时遇到了[一个问题](https://unix.stackexchange.com/q/493700/115007)，在别人的回答中看到了 login shell 和 non-login shell 的区别。在我的情况下终端中 bash 或者 zsh 都是能够使用 gpg 签名 git commit 的，但是在 tmux 下却报了错误。所以才有了这样一篇总结。
 
-登录式 shell 是**用户使用自己的 user ID 登录交互式 shell 的第一个进程**。这里又要提及另外两个概念就是交互式 shell 和非交互式 shell，幸而这两个概念比较好理解。
+登录式 shell（login shell） 是**用户使用自己的 user ID 登录交互式 shell 的第一个进程**。这里又要提及另外两个概念就是交互式 shell 和非交互式 shell，幸而这两个概念比较好理解。
 
 - 交互式 shell 指的是**在终端有交互的模式，用户输入命令，并在回车后立即执行的 shell**，这种模式也是大部分情况下用户执行的一种方式，比如 ssh 登录
 - 非交互式 shell 指的**是 bash shell 以命令脚本的形式执行**，这种模式下，shell 不会和用户有交互，而是读取脚本文件并执行，直到读取到文件 EOF 时结束

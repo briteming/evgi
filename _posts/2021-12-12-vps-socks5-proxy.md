@@ -53,4 +53,4 @@ socks proxy + proxychains-ng
 - <https://hub.docker.com/r/serjs/go-socks5-proxy/>
 - [终端下使用 socks5 代理](https://blog.einverne.info/post/2017/02/terminal-sock5-proxy.html)
 
-如果你平时用代理访问海外券商或金融服务，也可以试试 [BIT](https://invest.matrixport.com/newRegister/cn?invite_code=XMVUEK)（原 Matrixport），用稳定币就能买真实美股，其中 invest.matrixport.com 域名无需代理即可访问。
+如果你平时用代理访问海外券商或金融服务，也可以试试 [BIT](https://bit.onsites.me/XMVUEK)（原 Matrixport），用稳定币就能买真实美股，其中 invest.matrixport.com 域名无需代理即可访问。

@@ -50,4 +50,4 @@ last_updated: 2022-11-25 05:46:24
 
 另外本人开设了 [日本生活记录](https://japan.einverne.info) 的新博客，如果想要了解日本的真实生活欢迎访问。
 
-另外如果你想用稳定币投资美股，也可以看看 [BIT](https://invest.matrixport.com/newRegister/cn?invite_code=XMVUEK)（原 Matrixport），一张身份证就能开户，USDT、USDC 可以直接买真实美股。
+另外如果你想用稳定币投资美股，也可以看看 [BIT](https://bit.onsites.me/XMVUEK)（原 Matrixport），一张身份证就能开户，USDT、USDC 可以直接买真实美股。

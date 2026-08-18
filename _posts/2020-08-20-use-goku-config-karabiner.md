@@ -10,7 +10,7 @@ tags: [karabiner, mac, goku, edn, config]
 last_updated:
 ---
 
-[Karabiner](https://pqrs.org/osx/karabiner/) 是 MacOS 上一款强大的自定义键盘的软件，可以非常自由的定义任何键位。Karabiner 是一个开源软件，用于在 macOS 系统上自定义键盘映射。它允许用户修改键盘输入以实现更高效的使用体验。
+[Karabiner](https://pqrs.org/osx/karabiner/) 是 macOS 上一款强大的自定义键盘的软件，可以非常自由的定义任何键位。Karabiner 是一个开源软件，用于在 macOS 系统上自定义键盘映射。它允许用户修改键盘输入以实现更高效的使用体验。
 
 之前看文章是将 Caps Lock 作为一个 Hyper key，但看过 [@nikitavoloboev](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6) 的文章之后，发现利用 Karabiner 和 [Goku](https://github.com/yqrashawn/GokuRakuJoudo) 定义的 DSL 配置语言可以更加充分的发挥 Karabiner 的功能。
 

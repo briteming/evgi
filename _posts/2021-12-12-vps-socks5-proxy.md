@@ -6,11 +6,10 @@ tagline: ""
 description: ""
 category: 经验总结
 tags: [linux, socks5, proxy-server, vps, docker]
-last_updated: 
 dg-home: false
 dg-publish: false
-create_time: 2021-12-12 04:01:39
-last_updated: 2024-03-31 04:18:00
+create_time: 2021-12-12
+last_updated: 2024-03-31
 ---
 
 这篇文章简要的介绍一下如何在 VPS 快速使用 Docker 安装一个 socks 代理来满足临时需要 socks 代理的情况，适合直接在 VPS 上安装，然后用完立即删除。
@@ -47,6 +46,14 @@ curl --socks5 server.ip:port https://example.com
 ## Proxychains
 
 socks proxy + proxychains-ng
+
+## 内地身份哪个美股券商能开户？
+
+| 券商                 | 开户条件     | 税务穿透   | 入金方式                  | 福利                                                         | 安全                                                                          |
+| ------------------ | -------- | ------ | --------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **BIT**（美股持牌，非代币化） | 身份证做地址证明 | NO-CRS | USDT、USDC 入金，海外银行卡、转股 | [最高价值 $310 新人大礼包](https://www.einverne.info/post/900.html) | [香港信托 + 放债人牌照、瑞士 FINMA 资管牌照、不丹金融服务等](https://www.bit.com/zh/security-trust) |
+
+[立即开户](https://bit.onsites.me/XMVUEK)  ·  邀请码 `XMVUEK`
 
 ## reference
 

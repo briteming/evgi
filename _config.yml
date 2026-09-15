@@ -22,7 +22,7 @@ tagline: 学习笔记、经验总结、产品体验
 image: https://photo.einverne.info/images/2024/08/10/MenX.jpg
 repo_url: https://github.com/einverne/einverne.github.io
 description: 博客内容涵盖多个主题，包括 Jekyll、Linux 命令、编程语言学习笔记、各种产品体验、经验总结等。还深入探讨 Git、Java、Vim、Linux、Android 等技术领域，分享关于 Docker、Go、Spring、开源项目的见解。
-url : https://blog.einverne.info
+url : https://briteming.github.io/evgi
 author :
   name : Ein Verne
   email : git@einverne.info
@@ -39,7 +39,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://blog.einverne.info
+production_url : https://briteming.github.io/evgi
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -68,7 +68,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : /evgi
+  BASE_PATH : https://briteming.github.io/evgi
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
